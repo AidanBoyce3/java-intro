@@ -1,6 +1,13 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.print(new Person().speak());
+        String name = "hotdog";
+        int year = 2006;
+        String phrase = new Person().speak();
+
+        System.out.println(phrase);
+        System.out.println(name);
+        System.out.println(year);
     }
+
 }
