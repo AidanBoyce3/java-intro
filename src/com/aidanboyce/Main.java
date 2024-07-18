@@ -1,3 +1,7 @@
+package com.aidanboyce;
+
+import com.aidanboyce.model.Person;
+
 public class Main {
 
     public static void main(String[] args) {
